@@ -144,3 +144,6 @@ The API uses standard HTTP status codes for responses:
 - `404`: Resource not found
 - `409`: Conflict (e.g., duplicate booking)
 - `500`: Server error
+
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/28176216-63ad4c78-9237-413f-9949-8d4b535496a4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28176216-63ad4c78-9237-413f-9949-8d4b535496a4%26entityType%3Dcollection%26workspaceId%3Dddfeaef1-e8a3-4529-b4ac-e50ed746c1c7)
